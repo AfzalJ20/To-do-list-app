@@ -1,2 +1,11 @@
-# To-do-list-app
-IT IS A TO-DO-LIST APP/WEBSITE CREATED AS IT IS THE TASK-2 IN MY INTERNSHIP AT ELEVATE LABS
+# To-Do List Web App
+
+A modern, responsive To-Do List web application built using HTML, CSS, and Vanilla JavaScript. This project allows users to efficiently manage their daily tasks by adding, completing, and deleting tasks through an interactive and user-friendly interface. Built to demonstrate core JavaScript concepts, DOM manipulation, event handling, responsive web design, and front-end development skills.
+
+## Copyright Notice
+
+This project is publicly visible for portfolio and demonstration purposes only.
+
+Unauthorized copying, modification, redistribution, or commercial use of this code is strictly prohibited.
+
+© 2026 Javid Afzal J. All Rights Reserved.
